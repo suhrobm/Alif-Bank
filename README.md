@@ -1,1 +1,1 @@
-This application has been developed using transact-sql to book an available cabinet within an office or company building.   
+This application has been developed using transact-sql to book an available cabinet within an office or company building. Please, you have to pursuit each interpretation sequentially by its number to perceive better the executed phases.   
